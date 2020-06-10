@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `オープン系スキルシフト Blog`,
+    title: `繧ｪ繝ｼ繝励Φ邉ｻ繧ｹ繧ｭ繝ｫ繧ｷ繝輔ヨ Blog`,
     author: {
-      name: `オープン系スキルシフト`,
-      summary: `後で書く`,
+      name: `繧ｪ繝ｼ繝励Φ邉ｻ繧ｹ繧ｭ繝ｫ繧ｷ繝輔ヨ`,
+      summary: `蠕後〒譖ｸ縺汁,
     },
-    description: `オープン系スキルシフト Blog`,
+    description: `繧ｪ繝ｼ繝励Φ邉ｻ繧ｹ繧ｭ繝ｫ繧ｷ繝輔ヨ Blog`,
     siteUrl: `https://oss-blog.netlify.app/`,
     social: {
       twitter: ``,
@@ -60,7 +60,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `オープン系スキルシフト Blog`,
+        name: `繧ｪ繝ｼ繝励Φ邉ｻ繧ｹ繧ｭ繝ｫ繧ｷ繝輔ヨ Blog`,
         short_name: `OSS Blog`,
         start_url: `/`,
         background_color: `#ffffff`,
