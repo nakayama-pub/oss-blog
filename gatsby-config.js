@@ -2,10 +2,10 @@ module.exports = {
   siteMetadata: {
     title: `オープン系スキルシフト Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `オープン系スキルシフト`,
+      summary: `後で書く`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `オープン系スキルシフト Blog`,
     siteUrl: `https://oss-blog.netlify.app/`,
     social: {
       twitter: ``,
@@ -60,8 +60,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `オープン系スキルシフト Blog`,
+        short_name: `OSS Blog`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
