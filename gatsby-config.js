@@ -62,7 +62,7 @@ module.exports = {
       options: {
         name: `OSS Blog`,
         short_name: `OSS Blog`,
-        start_url: `/`,
+        start_url: `https://oss-blog.netlify.app/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
