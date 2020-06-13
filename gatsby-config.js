@@ -3,7 +3,7 @@ module.exports = {
     title: `オープン系スキルシフト Blog`,
     author: {
       name: `オープン系スキルシフト`,
-      summary: `後で書く`,
+      summary: `　`,
     },
     description: `オープン系スキルシフト Blog`,
     siteUrl: `https://oss-blog.netlify.app/`,
